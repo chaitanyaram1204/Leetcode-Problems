@@ -1,7 +1,7 @@
 class Solution {
 public:
     int climbStairs(int n) {
-        int h,f =0,g = 1;
+        long long int h,f =0,g = 1;
         for(int i = 0;i<n;i++)
         {
             h = f+g;
