@@ -1,43 +1,41 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
     bool isEvenOddTree(TreeNode* root) {
-        if (!root) {
-            return true;
-        }
-
-        std::queue<TreeNode*> queue;
-        int level = 0;
-
-        queue.push(root);
-
-        while (!queue.empty()) {
-            int size = queue.size();
-            int prev_val = (level % 2 == 0) ? std::numeric_limits<int>::min() : std::numeric_limits<int>::max();
-
-            for (int i = 0; i < size; ++i) {
-                TreeNode* node = queue.front();
-                queue.pop();
-
-                // Check if the values follow the conditions
-                if ((level % 2 == 0 && (node->val % 2 == 0 || node->val <= prev_val)) ||
-                    (level % 2 == 1 && (node->val % 2 == 1 || node->val >= prev_val))) {
+        if(!root) return true;
+         queue<TreeNode*> q;
+        bool checker = true; // Use bool instead of int for clarity
+        q.push(root);
+        
+        while (!q.empty()) {
+            int prev = checker ? INT_MIN : INT_MAX; // Initialize prev according to checker
+            int n = q.size();
+            
+            for (int i = 0; i < n; i++) {
+                TreeNode* node = q.front();
+                q.pop();
+                
+                if ((checker && (node->val <= prev || node->val % 2 == 0)) || (!checker && (node->val >= prev || node->val % 2 == 1))) {
                     return false;
                 }
-
-                prev_val = node->val;
-
-                // Add children to the queue
-                if (node->left) {
-                    queue.push(node->left);
-                }
-                if (node->right) {
-                    queue.push(node->right);
-                }
+                
+                if (node->left) q.push(node->left);
+                if (node->right) q.push(node->right);
+                
+                prev = node->val;
             }
-
-            level++;
+            checker = !checker; 
         }
-
         return true;
     }
 };
