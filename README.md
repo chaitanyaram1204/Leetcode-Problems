@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0079-word-search) |
 | [0347-top-k-frequent-elements](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [1803-average-waiting-time](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0079-word-search) |
 ## Math
 |  |
 | ------- |
@@ -56,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1803-average-waiting-time](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
