@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0079-word-search) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1720-crawler-log-folder) |
 ## Matrix
 |  |
@@ -71,5 +72,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
