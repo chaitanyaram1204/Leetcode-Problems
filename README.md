@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0079-word-search) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Matrix
 |  |
 | ------- |
@@ -75,8 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0213-house-robber-ii](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0213-house-robber-ii) |
+## Greedy
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
