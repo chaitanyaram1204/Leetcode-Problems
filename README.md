@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0726-number-of-atoms](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0726-number-of-atoms) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -93,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
