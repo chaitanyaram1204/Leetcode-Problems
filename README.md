@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2472-build-a-matrix-with-conditions](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/2472-build-a-matrix-with-conditions) |
 | [2846-robot-collisions](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0079-word-search) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2472-build-a-matrix-with-conditions](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/2472-build-a-matrix-with-conditions) |
 ## Stack
 |  |
 | ------- |
@@ -123,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Graph
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/2472-build-a-matrix-with-conditions) |
+## Topological Sort
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/2472-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
