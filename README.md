@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0134-gas-station) |
 | [0213-house-robber-ii](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0213-house-robber-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0079-word-search) |
 ## Math
