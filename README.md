@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0726-number-of-atoms](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0870-magic-squares-in-grid) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0948-sort-an-array) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0213-house-robber-ii](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0213-house-robber-ii) |
+| [0264-ugly-number-ii](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
 | [1196-filling-bookcase-shelves](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
