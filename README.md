@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0213-house-robber-ii](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0650-2-keys-keyboard) |
 | [1196-filling-bookcase-shelves](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
