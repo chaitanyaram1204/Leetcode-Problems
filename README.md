@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1207-delete-nodes-and-return-forest) |
+| [1240-stone-game-ii](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1240-stone-game-ii) |
 | [1333-sort-the-jumbled-numbers](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0273-integer-to-english-words) |
 | [0650-2-keys-keyboard](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0870-magic-squares-in-grid) |
+| [1240-stone-game-ii](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1240-stone-game-ii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0650-2-keys-keyboard) |
 | [1196-filling-bookcase-shelves](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Greedy
@@ -263,4 +266,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
