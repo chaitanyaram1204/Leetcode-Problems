@@ -1,11 +1,13 @@
 class Solution {
 public:
-    int solve(bool alice, int i, int m, vector<int>& piles, vector<vector<vector<int>>>& dp) {
+    int
+    solve(bool alice, int i, int m,
+          vector<int> piles,map<pair<bool, pair<int, int>>, int>& mp) {
         if (i == piles.size())
             return 0;
 
-        if (dp[alice][i][m] != -1)
-            return dp[alice][i][m];
+        if (mp.find({alice, {i, m}}) != mp.end())
+            return mp[{alice, {i, m}}];
 
         int res;
         if (alice)
@@ -15,23 +17,22 @@ public:
 
         int total = 0;
         for (int j = 1; j <= 2 * m; j++) {
-            if (i + j > piles.size())
+            if (j + i > piles.size())
                 break;
             total += piles[i + j - 1];
 
             if (alice) {
-                res = max(res, total + solve(false, i + j, max(m, j), piles, dp));
+                res =
+                    max(res, total + solve(false, i + j, max(m, j), piles, mp));
             } else {
-                res = min(res, solve(true, i + j, max(m, j), piles, dp));
+                res = min(res, solve(true, i + j, max(m, j), piles, mp));
             }
         }
 
-        return dp[alice][i][m] = res;
+        return mp[{alice, {i, m}}] = res;
     }
-
     int stoneGameII(vector<int>& piles) {
-        int n = piles.size();
-        vector<vector<vector<int>>> dp(2, vector<vector<int>>(n, vector<int>(n + 1, -1)));
-        return solve(true, 0, 1, piles, dp);
+        map<pair<bool, pair<int, int>>, int> mp;
+        return solve(true, 0, 1, piles, mp);
     }
 };
