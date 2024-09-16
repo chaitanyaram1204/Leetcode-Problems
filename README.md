@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0134-gas-station) |
 | [0213-house-robber-ii](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0213-house-robber-ii) |
 | [0347-top-k-frequent-elements](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0539-minimum-time-difference](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0870-magic-squares-in-grid) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0539-minimum-time-difference](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0948-sort-an-array) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0870-magic-squares-in-grid) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0079-word-search) |
 | [0273-integer-to-english-words](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0726-number-of-atoms) |
