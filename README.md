@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0999-regions-cut-by-slashes) |
+| [1002-maximum-width-ramp](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1002-maximum-width-ramp) |
 | [1196-filling-bookcase-shelves](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1240-stone-game-ii) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1002-maximum-width-ramp) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -392,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
