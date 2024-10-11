@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/2035-count-sub-islands) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2803-modify-graph-edge-weights](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/2803-modify-graph-edge-weights) |
 ## Bucket Sort
 |  |
