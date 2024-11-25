@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0787-sliding-puzzle](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0079-word-search) |
+| [0787-sliding-puzzle](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0999-regions-cut-by-slashes) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0787-sliding-puzzle) |
 | [0999-regions-cut-by-slashes](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1484-linked-list-in-binary-tree](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/chaitanyaram1204/Leetcode-Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
